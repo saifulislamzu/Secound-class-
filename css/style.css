@@ -1,0 +1,327 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    
+    font-family: 'Lato', sans-serif;
+    background:url(../img/m-bg-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container{
+    
+    width: 800px;
+    margin: 15% auto;
+}
+
+
+.login-sec{
+    background: #012732ba;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+
+.login-sec img{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+
+.login-sec h2{
+    
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+input{
+    display: block;
+    
+}
+.login-from{
+    width: 400px;
+    height: 25px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 5px 8px;
+    border-radius: 10px;
+    background-color: #e8e8e8;
+    color: #000000;
+    padding-left: 10px;
+    border: none;
+}
+
+
+.login-btn{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #ef6e4f;
+    color: #ffffff;
+    text-transform: uppercase;
+    border: none;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+
+.login-btn:hover{
+    cursor: pointer;
+    box-shadow: 3px 5px 5px #f7efed;
+    transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    
+}
+
+
+.another-btn{
+    
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 20px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    
+}
+
+.register-page{
+    
+    background:url(../img/first-one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.register-from{
+    background: #ffffffa3;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+
+.register-png{
+    
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+ 
+}
+
+.register-now{
+        
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #252323;
+    margin-top: 20px;
+
+}
+
+.register-pg-frm{
+    margin-top: 20px;
+    display: block;
+}
+
+
+.register-input{
+    width: 400px;
+    height: 25px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 5px 8px;
+    border-radius: 10px;
+    background-color: #403f3f;
+    color: #000000;
+    padding-left: 10px;
+    border: none;
+
+    
+}
+
+.register-btn{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #ef4f56;
+    color: #ffffff;
+    text-transform: uppercase;
+    border: none;
+    font-weight: bold;
+    border-radius: 15px;
+
+    
+}
+
+.register-btn:hover{
+    cursor: pointer;
+    box-shadow: 3px 5px 5px #332829;
+    transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    
+}
+
+   
+
+.forget-page{
+    
+    background:url(../img/secound-one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.forget-from{
+    background: #ffffffa3;
+    padding: 20px;
+    border-radius: 70px;
+}
+
+
+.forget-png{
+    
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+ 
+}
+
+.forget-now{
+        
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #252323;
+    margin-top: 20px;
+
+}
+
+.forget-pg-frm{
+    margin-top: 20px;
+    display: block;
+}
+
+
+.forget-input{
+    width: 400px;
+    height: 25px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 5px 8px;
+    border-radius: 10px;
+    background-color: #403f3f;
+    color: #000000;
+    padding-left: 10px;
+    border: none;
+
+    
+}
+
+.forget-btn{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #ef4f56;
+    color: #ffffff;
+    text-transform: uppercase;
+    border: none;
+    font-weight: bold;
+    border-radius: 15px;
+
+    
+}
+
+.forget-btn:hover{
+    cursor: pointer;
+    box-shadow: 3px 5px 5px #332829;
+    transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
